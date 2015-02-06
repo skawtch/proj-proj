@@ -1,0 +1,2 @@
+C:\Users\mblake\Documents\Visual Studio 2013\Projects\msp-rest\msp-rest\obj\Debug\msp-rest.csprojResolveAssemblyReference.cache
+C:\Users\mblake\Documents\Visual Studio 2013\Projects\msp-bind\msp-rest\obj\Debug\msp-rest.csprojResolveAssemblyReference.cache
